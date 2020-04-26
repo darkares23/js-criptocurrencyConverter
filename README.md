@@ -1,9 +1,9 @@
 # Criptocurrency Cotizer
 
-Create a javascript program that consumes REST API
-Convert 4 diferents currencies to more than 100 criptocurrencies
-Made using classes and Async / Await + Fetch API
-Add a spinner to simulates calculations
+- Create a javascript program that consumes REST API
+- Convert 4 diferents currencies to more than 100 criptocurrencies
+- Made using classes and Async / Await + Fetch API
+- Add a spinner to simulates calculations
 
 ## Starting 🚀
 
